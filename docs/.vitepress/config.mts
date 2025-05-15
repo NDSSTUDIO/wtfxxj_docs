@@ -8,7 +8,7 @@ export default defineConfig({
   description: "WTFXXJ",
   lang: 'zh-CN',
   head:[
-    ['link',{rel:'icon',href:'/assets/index/logo3.png'}]
+    ['link',{rel:'icon',href:'/logo3.webp'}]
   ],
 
   markdown: {
@@ -42,7 +42,7 @@ export default defineConfig({
     // 菜单  Menu
     sidebarMenuLabel: "菜单",
     siteTitle: 'WTFXXJ',
-    logo: '/assets/index/logo3.png',
+    logo: '/logo3.webp',
     footer: {
     message: 'Copyright © 2024-present <a href="wtfxxj.top">WTFXXJ</a>',
     copyright: '<a href="https://beian.miit.gov.cn/#/Integrated/index">晋ICP备2025057544号-1</a>'

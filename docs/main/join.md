@@ -1,4 +1,4 @@
-![logo.png](/assets/index/logo.png)
+![logo.webp](/assets/index/logo3.webp)
 <center><h1>欢迎来到WTFXXJ</h1></center>
 <center>一个世界边缘的Minecraft服务器</center>
 

@@ -6,7 +6,7 @@ hero:
   name: "WTFXXJ"
   tagline: 一个世界边缘的Minecraft服务器
   image:
-    src: /logo.png
+    src: /logo.webp
     alt: LOGO
   actions:
     - theme: brand
