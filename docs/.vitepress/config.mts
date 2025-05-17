@@ -60,7 +60,7 @@ export default defineConfig({
         items: [
           { text: '加入服务器', link: '/main/join' },
           { text: '规则', link: '/main/eula' },
-          { text: '权限组说明', link: '/main/eula' },
+          { text: '权限组说明', link: '/main/permission' },
           { text: '支持我们', link: '/main/support_us' },
         ]
       },
