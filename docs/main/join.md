@@ -4,6 +4,7 @@
 
 - 论坛：[**WWW.WTFXXJ.TOP**](https://www.wtfxxj.top/)
 - 官网：[**INFO.WTFXXJ.TOP**](https://info.wtfxxj.top/)
+- 处罚列表： [**BANS.WTFXXJ.TOP**](https://bans.wtfxxj.top/)
 - 主服务器地址：**MC.WTFXXJ.TOP**
 - 模组服地址：**MODS.WTFXXJ.TOP**
 - 模组服验证地址：**AUTH.WTFXXJ.TOP**
