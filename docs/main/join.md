@@ -8,9 +8,14 @@
 
 性质：公益服
 
-特点：友好，负责，多功能，生电，无神权...
+特点：长期，友好，负责，多功能，生电，无神权...
 
 服务器论坛：[BBS.WTFXXJR.TOP](https://bbs.wtfxxjr.top)
+
+服务器验证地址：
+[AUTH.WTFXXJR.TOP](https://auth.wtfxxjr.top)
+
+[入服教程](https://blog.wtfxxj.top/archives/WTFXXJr)
 
 服务器QQ群： **708803046**
 
