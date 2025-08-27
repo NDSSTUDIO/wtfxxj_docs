@@ -1,10 +1,17 @@
 ![logo.webp](/assets/index/logo3.webp)
-<center><h1>欢迎来到WTFXXJ</h1></center>
-<center>一个世界边缘的Minecraft服务器</center>
+<center><h1>欢迎！</h1></center>
+<center>这里是祥的服务器的通用文档</center>
 
-- 论坛：[**WWW.WTFXXJ.TOP**](https://www.wtfxxj.top/)
-- 官网：[**INFO.WTFXXJ.TOP**](https://info.wtfxxj.top/)
-- 处罚列表： [**BANS.WTFXXJ.TOP**](https://bans.wtfxxj.top/)
-- 主服务器地址：**MC.WTFXXJ.TOP**
-- 模组服地址：**MODS.WTFXXJ.TOP**
-- 模组服验证地址：**AUTH.WTFXXJ.TOP**
+祥的服务器有：
+
+- **WTFXXJ REBORN**
+性质：公益服
+特点：友好，负责，多功能，生电，无神权...
+服务器论坛：[BBS.WTFXXJR.TOP](https://bbs.wtfxxjr.top)
+服务器QQ群： **708803046**
+
+- **DuoHaven**
+性质：商业服
+特点：多人，管理友好，多周目生存...
+服务器地址： **DUOHAVEN.WTFXXJ.TOP**
+服务器QQ群： **1059971607**
