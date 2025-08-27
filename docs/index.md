@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "WTFXXJ"
-  tagline: 一个世界边缘的Minecraft服务器
+  name: "@iXiangPro"
+  tagline: 一个Minecraft服主
   image:
     src: /logo.webp
     alt: LOGO
@@ -14,7 +14,7 @@ hero:
       link: /plugins/menu
     - theme: alt
       text: 论坛
-      link: https://www.wtfxxj.top/
+      link: https://bbs.wtfxxjr.top/
 features:
   - title: 流畅体验
     details: 本服务器采用电信公网，保证玩家的游戏流畅性与稳定性，注重玩家游戏体验
